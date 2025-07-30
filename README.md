@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @2kilobyte</h1>
-<h3 align="center">A passionate web and mobile Application developer from Bangladesh. I am a freelance web developer based on [Fiverr](https://www.fiverr.com/yeasin71). My goal is to become one of the best programmers in the field. When I’m not coding, you can find me playing video games. 🎮</h3>
+<h3 align="center">A passionate web and mobile Application developer from Bangladesh. I am a freelance web developer. My goal is to become one of the best programmers in the field. When I’m not coding, you can find me playing video games. 🎮</h3>
 
 <p align="left"> <a href="https://twitter.com/2kilobyte" target="blank"><img src="https://img.shields.io/twitter/follow/2kilobyte?logo=twitter&style=for-the-badge" alt="2kilobyte" /></a> </p>
 
